@@ -46,7 +46,7 @@ const Footer = () => {
         </Works>
       </FooterLinks>
 
-      <h3>2022 Marudhu... All Rights Reserved</h3>
+      <h3>2023 Marudhu... All Rights Reserved</h3>
     </Foot>
   );
 };
